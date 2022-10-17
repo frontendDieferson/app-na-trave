@@ -1,0 +1,1 @@
+DATABASE_URL='mysql://w0jk860om3e3s1rqd466:pscale_pw_1YT04hFRUp1EN4bxOhRfqeKZ9K9fBYDir12xdF6QnyN@us-east.connect.psdb.cloud/natrave?sslaccept=strict'
